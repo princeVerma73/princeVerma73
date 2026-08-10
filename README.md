@@ -36,25 +36,6 @@ Machine Learning • Generative AI • RAG • LangChain • LangGraph
 
 Git • GitHub • Streamlit • FastAPI
 
-## 📌 Featured Projects
-
-🔹 **AI Document Assistant**  
-RAG-based application for interacting with documents.
-
-🔹 **AI Chat Assistant**  
-LLM-powered conversational application.
-
-🔹 **Machine Learning Projects**  
-Practical ML applications built using Python and Scikit-learn.
-
-## 🌱 Currently Learning
-
-- Advanced Generative AI
-- LLM Application Development
-- RAG & AI Agents
-- DSA & Problem Solving
-- MLOps
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-verma-8aab5a323)
