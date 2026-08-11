@@ -189,18 +189,18 @@ Building knowledge-based AI applications using Retrieval-Augmented Generation, e
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princeVerma73&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Prince's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeVerma73&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=princeVerma73&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/princeVerma73">
+    <img src="https://img.shields.io/github/followers/princeVerma73?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/princeVerma73?tab=repositories">
+    <img src="https://img.shields.io/github/stars/princeVerma73?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/princeVerma73">
+    <img src="https://img.shields.io/github/last-commit/princeVerma73/princeVerma73?label=Last%20Commit&style=for-the-badge" alt="Last Commit"/>
+  </a>
 </p>
 
 ---
