@@ -22,14 +22,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering** at **IIIT Bhagalpur**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning & Generative AI**
-- 💼 Currently working as an **Artificial Intelligence Intern at DStarix Techno Pvt Ltd**
-- 🛠️ Builds practical AI applications using **Python, Machine Learning and Generative AI**
-- 📚 Practicing **Data Structures & Algorithms**
-- 🌱 Continuously learning **AI Engineering & Agentic AI**
-- 💬 Ask me about **Python, Machine Learning, Generative AI, LangChain, LangGraph & DSA**
-- 📫 Reach me at **princeverma87496@gmail.com**
+🎓 B.Tech CSE @ IIIT Bhagalpur  
+🤖 AI/ML & Generative AI Enthusiast | 💼 AI Intern @ DStarix Techno 
+🌐 Open to Remote Opportunities
+🧩 Exploring Agentic AI, RAG & AI Engineering  
+💻 Python · C++ · LangChain · LangGraph · DSA  
+📫 [Email](mailto:princeverma87496@gmail.com)
 
 ---
 
