@@ -9,6 +9,9 @@
   <a href="https://github.com/princeVerma73?tab=followers">
     <img src="https://img.shields.io/github/followers/princeVerma73?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
+   <a href="https://github.com/princeVerma73">
+    <img src="https://img.shields.io/github/stars/Piyush30007?label=Stars&style=flat" alt="GitHub Stars"/>
+  </a>
 </p>
 
 <p align="center">
@@ -21,13 +24,12 @@
 
 - 🎓 **B.Tech in Computer Science & Engineering** at **IIIT Bhagalpur**
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
-- 🧠 Exploring **Agentic AI, LLMs, RAG, LangChain & LangGraph**
 - 💼 Currently working as an **Artificial Intelligence Intern at DStarix Techno Pvt Ltd**
 - 🛠️ Building practical AI applications using **Python, Machine Learning and Generative AI**
 - 📚 Practicing **Data Structures & Algorithms**
-- 🚀 Interested in **AI Engineering, Generative AI, MLOps and intelligent applications**
-- 🌱 Continuously learning and improving my AI & software engineering skills
+- 🌱 Continuously learning and improving my AI Engineering & Agentic AI skills
 - 💬 Ask me about **Python, Machine Learning, Generative AI, LangChain, LangGraph & DSA**
+- 📫 Reach me at **princeverma87496@gmail.com*
 
 ---
 
@@ -44,15 +46,12 @@
 
 ## 💼 Experience
 
-### Artificial Intelligence Intern
-**DStarix Techno Pvt Ltd**
+### Generative AI Intern
+**DStarix Techno**
 
-- Working on **Generative AI projects**
-- Building and experimenting with **LLM-powered applications**
-- Exploring **Agentic AI workflows**
-- Working with **LangChain and LangGraph**
-- Developing practical AI applications as part of the internship
-
+- Builds AI-powered applications using **Python, Gemini API, LangChain & LangGraph**
+- Implements **RAG pipelines** with FAISS, Gemini Embeddings & semantic search
+- Develops **agentic AI workflows** using tool calling, conditional routing & multi-step LLM reasoning
 ---
 
 # 🧠 What I Work With
@@ -125,6 +124,16 @@
 
 # 🚀 Featured Projects
 
+## 👨‍👩‍👧 Kinship Verification using Siamese Neural Network
+
+A deep learning application for biological kinship verification using a Siamese Neural Network with a ResNet18 backbone.
+
+**Tech Stack**
+
+`Python` · `PyTorch` · `ResNet18` · `FastAPI` · `Computer Vision` · `Render`
+
+---
+
 ## 🤖 AI Chat Assistant
 
 An LLM-powered conversational AI application capable of answering user queries through a web interface.
@@ -137,41 +146,11 @@ An LLM-powered conversational AI application capable of answering user queries t
 
 ## 🧠 RAG-based AI Applications
 
-Exploring Retrieval-Augmented Generation systems using document retrieval, embeddings and LLMs to build knowledge-based AI applications.
+Building knowledge-based AI applications using Retrieval-Augmented Generation, embeddings, and vector databases.
 
 **Tech Stack**
 
 `Python` · `LangChain` · `LLMs` · `Embeddings` · `Vector Databases`
-
----
-
-## 💰 Premium Health Insurance Cost Predictor
-
-A machine learning application that predicts health insurance costs based on user inputs.
-
-**Tech Stack**
-
-`Python` · `Pandas` · `Scikit-learn` · `Streamlit` · `Joblib`
-
----
-
-## 🚗 Car Damage Detection
-
-A deep learning based image classification application for detecting vehicle damage.
-
-**Tech Stack**
-
-`Python` · `PyTorch` · `CNN` · `ResNet` · `Streamlit`
-
----
-
-## 💰 Expense Tracking System
-
-A full-stack expense tracking application with a Streamlit frontend, FastAPI backend and MySQL database.
-
-**Tech Stack**
-
-`Python` · `Streamlit` · `FastAPI` · `MySQL`
 
 ---
 
@@ -198,9 +177,6 @@ A full-stack expense tracking application with a Streamlit frontend, FastAPI bac
 | 📅 Active Days | **173 Days** |
 | 🔥 Maximum Streak | **50 Days** |
 | 🏆 Contests | **26 Contests Attended** |
-| 🟠 LeetCode | **5 Contests Attended** |
-| 🟤 CodeChef | **20 Contests Attended** |
-| 🔵 Codeforces | **1 Contest Attended** |
 
 ---
 
@@ -240,26 +216,6 @@ A full-stack expense tracking application with a Streamlit frontend, FastAPI bac
 
 ---
 
-# 📊 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/prince765/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codolio.com/profile/prince_verma73">
-  <img src="https://img.shields.io/badge/Codolio-8A2BE2?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/princeVerma73">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -268,6 +224,10 @@ A full-stack expense tracking application with a Streamlit frontend, FastAPI bac
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://x.com/Prince_v73">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 <a href="https://github.com/princeVerma73">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -280,8 +240,8 @@ A full-stack expense tracking application with a Streamlit frontend, FastAPI bac
   <img src="https://img.shields.io/badge/Codolio-8A2BE2?style=for-the-badge"/>
 </a>
 
-</p>
 
+</p>
 ---
 
 # 💡 Current Learning Roadmap
@@ -312,3 +272,8 @@ A full-stack expense tracking application with a Streamlit frontend, FastAPI bac
                  AI Engineering
                        │
                     MLOps
+---
+
+<p align="center">
+  💻 <b>Code. Create. Innovate.</b> 🚀
+</p>
