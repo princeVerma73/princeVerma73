@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prince Kumar
 
-### 🚀 AI/ML Enthusiast | Generative AI Developer | Agentic AI | B.Tech CSE @ IIIT Bhagalpur
+### AI/ML Enthusiast | Generative AI Developer | Agentic AI | B.Tech CSE @ IIIT Bhagalpur
 
 <p align="center">
   <a href="https://github.com/princeVerma73">
@@ -9,8 +9,8 @@
   <a href="https://github.com/princeVerma73?tab=followers">
     <img src="https://img.shields.io/github/followers/princeVerma73?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
-   <a href="https://github.com/princeVerma73">
-    <img src="https://img.shields.io/github/stars/Piyush30007?label=Stars&style=flat" alt="GitHub Stars"/>
+  <a href="https://github.com/princeVerma73">
+    <img src="https://img.shields.io/github/stars/princeVerma73?label=Stars&style=flat" alt="GitHub Stars"/>
   </a>
 </p>
 
@@ -22,14 +22,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering** at **IIIT Bhagalpur**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
+- 🎓 B.Tech in **Computer Science & Engineering** at **IIIT Bhagalpur**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning & Generative AI**
 - 💼 Currently working as an **Artificial Intelligence Intern at DStarix Techno Pvt Ltd**
-- 🛠️ Building practical AI applications using **Python, Machine Learning and Generative AI**
+- 🛠️ Builds practical AI applications using **Python, Machine Learning and Generative AI**
 - 📚 Practicing **Data Structures & Algorithms**
-- 🌱 Continuously learning and improving my AI Engineering & Agentic AI skills
+- 🌱 Continuously learning **AI Engineering & Agentic AI**
 - 💬 Ask me about **Python, Machine Learning, Generative AI, LangChain, LangGraph & DSA**
-- 📫 Reach me at **princeverma87496@gmail.com*
+- 📫 Reach me at **princeverma87496@gmail.com**
 
 ---
 
@@ -47,14 +47,16 @@
 ## 💼 Experience
 
 ### Generative AI Intern
-**DStarix Techno**
+**DStarix Techno Pvt Ltd** | Jul 2026 – Present
 
 - Builds AI-powered applications using **Python, Gemini API, LangChain & LangGraph**
 - Implements **RAG pipelines** with FAISS, Gemini Embeddings & semantic search
 - Develops **agentic AI workflows** using tool calling, conditional routing & multi-step LLM reasoning
+- Builds AI web applications with chat history, session management and error handling
+
 ---
 
-# 🧠 What I Work With
+# 🧠 Technical Skills
 
 ## 🤖 AI / Machine Learning
 
@@ -95,7 +97,7 @@
 ## 🌐 Backend & Application Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit" />
 </p>
 
 `FastAPI` · `Streamlit` · `REST APIs`
@@ -180,30 +182,18 @@ Building knowledge-based AI applications using Retrieval-Augmented Generation, e
 
 ---
 
-# 🔥 Coding Consistency
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Maximum%20Coding%20Streak-50%20Days-orange?style=for-the-badge&logo=github"/>
-</p>
-
-<p align="center">
-  <b>Consistency &gt; Motivation 🚀</b>
-</p>
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princeVerma73&show_icons=true&locale=en" alt="Prince's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=princeVerma73&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Prince's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=princeVerma73&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeVerma73&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeVerma73" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=princeVerma73&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -211,7 +201,7 @@ Building knowledge-based AI applications using Retrieval-Augmented Generation, e
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=princeVerma73&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=princeVerma73&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -240,8 +230,8 @@ Building knowledge-based AI applications using Retrieval-Augmented Generation, e
   <img src="https://img.shields.io/badge/Codolio-8A2BE2?style=for-the-badge"/>
 </a>
 
-
 </p>
+
 ---
 
 # 💡 Current Learning Roadmap
@@ -265,15 +255,10 @@ Building knowledge-based AI applications using Retrieval-Augmented Generation, e
               │                 │
               └────────┬────────┘
                        │
-                  Agentic AI
+                   Agentic AI
                        │
                 LangGraph / Agents
                        │
                  AI Engineering
                        │
                     MLOps
----
-
-<p align="center">
-  💻 <b>Code. Create. Innovate.</b> 🚀
-</p>
