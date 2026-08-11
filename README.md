@@ -24,11 +24,11 @@
 
 🎓 B.Tech CSE @ IIIT Bhagalpur  
 🤖 AI/ML & Generative AI Enthusiast  
-💼 AI Intern @ DStarix Techno Pvt Ltd  
+💼 AI Intern @ DStarix Techno  
 🌐 Open to Remote Opportunities  
 🧩 Exploring Agentic AI, RAG & AI Engineering  
 💻 Python · C++ · LangChain · LangGraph · DSA  
-📫 [Email](mailto:princeverma87496@gmail.com)
+📫 Reach me at mailto:princeverma87496@gmail.com
 
 ---
 
@@ -181,6 +181,14 @@ Building knowledge-based AI applications using Retrieval-Augmented Generation, e
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princeVerma73&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
 # 📈 GitHub Stats
 
 <p align="center">
@@ -193,14 +201,6 @@ Building knowledge-based AI applications using Retrieval-Augmented Generation, e
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=princeVerma73&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=princeVerma73&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
