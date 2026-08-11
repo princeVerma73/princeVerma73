@@ -28,7 +28,7 @@
 🌐 Open to Remote Opportunities  
 🧩 Exploring Agentic AI, RAG & AI Engineering  
 💻 Python · C++ · LangChain · LangGraph · DSA  
-📫 Reach me at mailto:princeverma87496@gmail.com
+📫 Reach me at princeverma87496@gmail.com
 
 ---
 
@@ -189,21 +189,6 @@ Building knowledge-based AI applications using Retrieval-Augmented Generation, e
 
 ---
 
-## 📊 GitHub Profile
-
-<p align="center">
-  <a href="https://github.com/princeVerma73">
-    <img src="https://img.shields.io/github/followers/princeVerma73?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/princeVerma73?tab=repositories">
-    <img src="https://img.shields.io/github/stars/princeVerma73?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
-  </a>
-  <a href="https://github.com/princeVerma73">
-    <img src="https://img.shields.io/github/last-commit/princeVerma73/princeVerma73?label=Last%20Commit&style=for-the-badge" alt="Last Commit"/>
-  </a>
-</p>
-
----
 
 # 🌐 Connect With Me
 
