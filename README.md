@@ -23,8 +23,9 @@
 ## 👨‍💻 About Me
 
 🎓 B.Tech CSE @ IIIT Bhagalpur  
-🤖 AI/ML & Generative AI Enthusiast | 💼 AI Intern @ DStarix Techno 
-🌐 Open to Remote Opportunities
+🤖 AI/ML & Generative AI Enthusiast  
+💼 AI Intern @ DStarix Techno Pvt Ltd  
+🌐 Open to Remote Opportunities  
 🧩 Exploring Agentic AI, RAG & AI Engineering  
 💻 Python · C++ · LangChain · LangGraph · DSA  
 📫 [Email](mailto:princeverma87496@gmail.com)
