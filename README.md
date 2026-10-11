@@ -11,12 +11,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princeVerma73&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="https://github.com/princeVerma73?tab=followers">
-    <img src="https://img.shields.io/github/followers/princeVerma73?label=Followers&style=flat&color=8A2BE2" alt="Followers"/>
-  </a>
   <a href="https://github.com/princeVerma73">
-    <img src="https://img.shields.io/github/stars/princeVerma73?label=Stars&style=flat&color=FFA116" alt="Stars"/>
+    <img src="https://hits.sh/github.com/princeVerma73.svg?label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/princeVerma73?tab=followers">
+    <img src="https://img.shields.io/badge/Follow-princeVerma73-8A2BE2?style=flat-square" alt="Follow on GitHub"/>
+  </a>
+  <a href="https://github.com/princeVerma73?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-FFA116?style=flat-square" alt="Repositories"/>
   </a>
 </p>
 
@@ -24,32 +26,20 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td>
-
-🎓 **B.Tech CSE** @ IIIT Bhagalpur (2024 – 2028) · CGPA 7.2/10
-🤖 Applied AI/ML engineer building **multi-agent RAG systems** with guardrails
-🧠 Deep learning models served through **FastAPI**
-💼 Former **Generative AI Intern** @ DStarix Techno (Jul – Sep 2026)
-🏅 JEE Main 2024 — **Top 4%** among 1.4M+ candidates
-🌐 Open to **Remote Opportunities** & internships
-📫 Reach me: [princeverma87496@gmail.com](mailto:princeverma87496@gmail.com)
-
-</td>
-</tr>
-</table>
-
+- 🎓 B.Tech CSE @ IIIT Bhagalpur (2024 – 2028)
+- 🤖 Applied AI/ML engineer building multi-agent RAG systems with guardrails
+- 🧠 Deep learning models served through FastAPI
+- 💼 Former Generative AI Intern @ DStarix Techno (Jul – Sep 2026)
+- 🌐 Open to remote opportunities & internships
+- 📫 Reach me: [princeverma87496@gmail.com](mailto:princeverma87496@gmail.com)
 ---
 
 ## 🏅 Highlights
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20University%20Hackathon%202026-Top%200.41%25-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20ML%20Challenge-Top%202%2C500%20of%2089K%2B-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flipkart%20GRiD%208.0-Semi--Finalist-2874F0?style=for-the-badge&logo=flipkart&logoColor=white"/>
-</p>
-
+- 🥇 **Adobe University Hackathon 2026** — Top 0.41% nationwide out of 3.1L+ registrations
+- 🛒 **Amazon ML Challenge** — Ranked top 2,500 of 89,000+ participants
+- 🏆 **Flipkart GRiD 8.0** — Semi-Finalist among 1.65L+ participants
+- 💻 **470+ DSA problems** solved across LeetCode, GeeksforGeeks and CodeChef
 ---
 
 ## 💼 Experience
@@ -110,46 +100,18 @@ Multi-agent support system with intent routing, 5 specialist agents, hybrid RAG,
 
 ## 🏆 Coding & Problem Solving
 
-<p align="center">
-  <a href="https://leetcode.com/u/prince765/"><img src="https://img.shields.io/badge/LeetCode-248%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/prince_verma73"><img src="https://img.shields.io/badge/Codolio-474%20Solved-8A2BE2?style=for-the-badge"/></a>
-  <img src="https://img.shields.io/badge/LeetCode%20Rating-1531-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeChef%20DSA-1497-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/prince765?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
-### 📊 Coding Journey
-
 | Platform | Achievement |
 |----------|-------------|
 | 🟠 **LeetCode** | **248 solved** (Easy 125 · Medium 118 · Hard 5) · Rating **1531** · Top 36.78% · 100 Days Badge 2026 |
 | 🟣 **Codolio** | **474 questions solved** · **354 DSA** (Easy 189 · Medium 158 · Hard 7) |
 | 📅 **Active Days** | **207** (Codolio) |
 | 🔥 **Max Streak** | **50 days** (LeetCode) |
-| 🏁 **Contests** | **38 attended** — LeetCode 11 · CodeChef 23 · Codeforces 1 · CodeChef DSA 3 |
+| 🏁 **Contests** | **38 attended** |
 | ⭐ **CodeChef** | **1391** (max 1391) |
 | ⭐ **CodeChef DSA** | **1497** (max 1497) |
-| 🔵 **Codeforces** | **381** — Newbie (max 381) |
 | 🌍 **Codolio Global Rank** | **12284** |
 
-### 🧩 DSA Topic Analysis
-
-```text
-Arrays         ████████████████████████████████████  146
-Sorting        ███████████████                        59
-Math           █████████████                          53
-HashMap & Set  █████████████                          53
-Algorithms     ███████████                            45
-Linked Lists   ██████████                             42
-String         ██████████                             40
-Trees          ████████                               32
-Two Pointers   ███████                                30
-Binary Search  ███████                                30
-```
-
+🔗 [LeetCode](https://leetcode.com/u/prince765/) · [Codolio](https://codolio.com/profile/prince_verma73)
 ---
 
 ## 📈 GitHub Stats
@@ -164,23 +126,21 @@ Binary Search  ███████                                30
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princeVerma73&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/0E75B6/princeVerma73" alt="GitHub Contributions" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=princeVerma73&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
 
 ---
 
-## 🎬 Leadership
+## 🎬 Beyond Code — Video Editor & Cinematographer
 
-**Lead — CINEMARA, Cinematography Club | IIIT Bhagalpur** *(Aug 2025 – Jul 2026)*
+> *When I'm not training models, I'm cutting footage and telling stories.*
 
-- 👥 Led a team of **30+ members**, mentoring peers in video editing, cinematography and creative storytelling
-- 🎓 Conducted **5+ workshops** on technical photography and creative content creation
-- 📸 Co-Lead for media production at **ENYUGMA'26**, overseeing official photography and videography
+**🎥 Lead — CINEMARA, Cinematography Club | IIIT Bhagalpur** *(Aug 2025 – Jul 2026)*
 
+- ✂️ Led **30+ creators**, mentoring peers in video editing, cinematography and storytelling
+- 📸 Ran **5+ workshops** on technical photography and creative content creation
+- 🎞️ Co-Lead for media production at **ENYUGMA'26** — official photography & videography
 ---
 
 ## 🔭 Currently Working On
